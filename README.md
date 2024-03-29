@@ -4,6 +4,16 @@ Remote controlled system (robot) from self developed android app that constantly
 
 In this project, a vehicular robotic arm is made and controlled by an Android mobile app. The development of this model is through ESP32 along with a mobile phone for controlling the robot. This prototype may be expected to overcome the problems of picking hazardous objects or non-hazardous objects that are far away from the user and where displacement of very heavy objects is needed from one place to another as automation is required in many industries.
 
+# Block Diagram
+
+![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/block%20diag.jpg)
+
+# Images
+
+![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/picture1.jpg)
+![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/picture2.jpg)
+
+
 
 # Project Presentation video:
 This is the presentation video link for our project:
