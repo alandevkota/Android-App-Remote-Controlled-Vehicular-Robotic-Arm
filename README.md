@@ -1,6 +1,10 @@
 # Android-App-Remote-Controlled-Vehicular-Robotic-Arm
 Remote controlled system (robot) from self developed android app that constantly performs the task of picking an object and moving it to the desired location (both automatic and manual).
 
+
+In this project, a vehicular robotic arm is made and controlled by an Android mobile app. The development of this model is through ESP32 along with a mobile phone for controlling the robot. This prototype may be expected to overcome the problems of picking hazardous objects or non-hazardous objects that are far away from the user and where displacement of very heavy objects is needed from one place to another as automation is required in many industries.
+
+
 # Project Presentation video:
 This is the presentation video link for our project:
 
