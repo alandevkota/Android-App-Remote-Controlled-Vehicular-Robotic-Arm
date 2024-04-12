@@ -13,6 +13,8 @@ In this project, a vehicular robotic arm is made and controlled by an Android mo
 ![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/picture1.jpg)
 ![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/picture2.jpg)
 
+## Bluetooth App
+![ My App](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/Bluetooth%20App.png)
 
 
 # Project Presentation video:
