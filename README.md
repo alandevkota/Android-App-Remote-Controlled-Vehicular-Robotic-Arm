@@ -6,7 +6,7 @@ In this project, a vehicular robotic arm is made and controlled by an Android mo
 
 <!-- # Block Diagram -->
 
-![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/block%20diag.jpg) -->
+<!-- ![alt text](./Vehicular%20Robotic%20Arm/ECE6372%20Team%20Project/block%20diag.jpg) -->
 
 # Images
 
